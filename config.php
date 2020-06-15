@@ -1,4 +1,5 @@
 <?php
-define('DB_NAME', 'register');
-define('DB_USER', 'angelina');
-define('DB_HOST', 'localhost');
+define('DB_NAME','homiak_db');
+define('DB_USER','root');
+define('DB_PASSWORD','');
+define('DB_HOST','localhost');
